@@ -1,0 +1,1 @@
+Aqui se guarda las conexiones y configuraciones a la BD
