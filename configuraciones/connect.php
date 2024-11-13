@@ -15,5 +15,5 @@
   else{
 	  echo "Conexión fallida";	  
   }
-  
+  //conexion
 ?>
